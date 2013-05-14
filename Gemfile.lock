@@ -1,0 +1,34 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    git (1.2.5)
+    hike (1.2.2)
+    jeweler (1.8.4)
+      bundler (~> 1.0)
+      git (>= 1.2.5)
+      rake
+      rdoc
+    json (1.7.7)
+    minitest (4.7.4)
+    multi_json (1.7.3)
+    rack (1.5.2)
+    rake (10.0.4)
+    rdoc (4.0.1)
+      json (~> 1.4)
+    sprockets (2.9.3)
+      hike (~> 1.2)
+      multi_json (~> 1.0)
+      rack (~> 1.0)
+      tilt (~> 1.1, != 1.3.0)
+    tilt (1.4.0)
+    yard (0.8.6.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (>= 1.3.5)
+  jeweler (>= 1.8.4)
+  minitest
+  sprockets (>= 2.9.3)
+  yard (>= 0.8.6.1)
